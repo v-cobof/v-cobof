@@ -2,7 +2,7 @@
 
 ### About me
 
-- 😃 I'm 21 years old, full stack .NET developer at F360, currently studying Computer Science at Universidade Federal do ABC (UFABC).
+- 😃 I'm a full stack .NET developer at F360, currently studying Computer Science at Universidade Federal do ABC (UFABC).
  
 - 🖥️ My stack of choice is the ASP.NET framework for the backend, mainly for developing REST API's, and React.js for the frontend, creating Single Page Applications that consume those API's.
 
